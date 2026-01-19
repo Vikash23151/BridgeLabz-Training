@@ -11,47 +11,47 @@ The README will be updated regularly as new topics, folders, and implementations
 
      BridgeLabz-Training
      │
-     ├── [core-java-practice](../../tree/core-java-practice/core-java-practice)
+     ├── core-java-practice/
      │   │
-     │   ├── [gcr-codebase](../../tree/core-java-practice//tree/core-java-practice/core-java-practice/scenario-based/gcr-codebase)
-     │   │   ├── [programming-elements](../../tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
-     │   │   ├── [control-flow](../../tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
-     |   |   ├── [methods](../../tree/core-java-practice/core-java-practice/gcr-codebase/methods)
-     |   |   ├── [string](../../tree/core-java-practice/core-java-practice/gcr-codebase/string)
-     |   |   ├── [arrays](../../tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
-     |   |   └── [extras](../../tree/core-java-practice/core-java-practice/gcr-codebase/extras)
+     │   ├── gcr-codebase/
+     │   │   ├── programming-elements/
+     │   │   ├── control-flow/
+     |   |   ├── methods/
+     |   |   ├── string/
+     |   |   ├── arrays/
+     |   |   └── extras/
      │   │
-     │   ├── leet-code-codebase
+     │   ├── leet-code-codebase/
      │   │
-     │   └── [scenario-based](../../tree/core-java-practice/core-java-practice/scenario-based)
+     │   └── scenario-based/
      │
-     ├── [oops-practice](../../tree/oops-practice)
+     ├── oops-practice
      │   │
-     │   ├── [gcr-codebase](../../tree/oops-practice/gcr-codebase)
-     │   │   ├── [class-objects](../..tree/oops-practice/gcr-codebase/class-objects)
-     │   │   ├── [constructors-modifiers](../..tree/oops-practice/gcr-codebase/constructors-modifiers)
-     |   |   ├── [keywords-instanceOf-operator](../..tree/oops-practice/gcr-codebase/keywords-instanceOf-operator)
-     |   |   ├── [object-oriented-design-principles](../..tree/oops-practice/gcr-codebase/object-oriented-design-principles)
-     |   |   ├── [inheritance](../..tree/oops-practice/gcr-codebase/inheritance)
-     |   |   ├── [encapsulation-polymorphism](../..tree/oops-practice/gcr-codebase/encapsulation-polymorphism)
-     |   |   └── [address-book](../..tree/oops-practice/gcr-codebase/address-book)
+     │   ├── gcr-codebase/
+     │   │   ├── class-objects/
+     │   │   ├── constructors-modifiers/
+     |   |   ├── keywords-instanceOf-operator/
+     |   |   ├── object-oriented-design-principles/
+     |   |   ├── inheritance/
+     |   |   ├── encapsulation-polymorphism/
+     |   |   └── address-book/
      |   |
      │   ├── leet-code-codebase
      |   |
-     │   └── [scenario-based](../../tree/oops-practice/scenario-based)
+     │   └── scenario-based
      |
      |
-     ├── [dsa-practice](../../tree/dsa-practice)
-     │   ├── [gcr-codebase](../../tree/dsa-practice/gcr-codebase)
-     │   │   ├── [linked-list](../..tree/dsa-practice/gcr-codebase/linked-list)
-     |   |   ├── [stack-queue-hashmap](../../tree/dsa-practice/gcr-codebase/stack-queue-hashmap)
-     |   |   ├── [sorting](../../tree/dsa-practice/gcr-codebase/sorting)
-     |   |   └── [linear-binary-search](../../tree/dsa-practice/gcr-codebase/linear-binary-search)
+     ├── dsa-practice/
+     │   ├── gcr-codebase/
+     │   │   ├── linked-list
+     |   |   ├── stack-queue-hashmap/
+     |   |   ├── sorting/
+     |   |   └── linear-binary-search/
      |   |
      |   |
-     ├── [review](../../tree/review)
+     ├── review/
      |
-     +-- [README.md](README.md)
+     +-- README.md/
 
 
 ### 🔗 Quick Navigation
