@@ -35,6 +35,14 @@ public class Contact {
 		return firstName+" "+lastName;
 	}
 	
+	public String getFirstName() {
+		return firstName;
+	}
+	
+	public String getLastName() {
+		return lastName;
+	}
+	
 	public String getAddress() {
 		return address+" "+city+" "+state+" "+zip;
 	}
@@ -45,6 +53,18 @@ public class Contact {
 	
 	public String getEmail() {
 		return email;
+	}
+	
+	public String getCity() {
+		return city;
+	}
+	
+	public String getState() {
+		return state;
+	}
+	
+	public String getZip() {
+		return zip;
 	}
 	
 	public void setFirstName(String newFirstName) {
@@ -77,5 +97,15 @@ public class Contact {
 	
 	public void setEmail(String newEmail) {
 		email=newEmail;
+	}
+	
+	@Override
+	public String toString() {
+	    return firstName + " " + lastName + ", " + address +
+	            ", " + city +
+	            ", " + state +
+	            ", " + zip +
+	            ", " + phoneNumber +
+	            ", " + email;
 	}
 }
