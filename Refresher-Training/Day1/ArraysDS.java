@@ -11,7 +11,7 @@ public class ArraysDS {
         }
         List<Integer> res = reverseArray(arr);
         for (int i = 0; i < res.size(); i++) {
-            System.out.print(res.get(i)+"");
+            System.out.print(res.get(i)+" ");
         }
         sc.close();
     }
